@@ -8,7 +8,7 @@ Like all forms of regression analysis, linear regression focuses on the conditio
 At the bottom left fields user should input expected maximum values of x and y coordinates of expected input data, although this can easily change with the strip below the main window of the app. Beneath those 2 fields, user should write desired 2D data in the following form: (x-coordinate,y-coordinate). The output red linear curve is visible on main window, where user can also choose if he wants to see data coordinates on graph, or x and y-lines of coordinates of data. The procedure can be repeated an unlimited number of times, with a large number of points.
 
 ## Authors
-App is developed by 4 students of School od Electrical Engineering in Belgrade, as a part of seminar work The least squares method in the course Complexity of algorithms and selected optimization methods. It was also put at site of the course: [Linear regression](http://optimizacija.etf.rs/LR.html)
+App is developed by 4 students of School od Electrical Engineering in Belgrade, as a part of seminar work The least squares method in the course Complexity of algorithms and selected optimization methods. It was also put at website of the course: [Linear regression](http://optimizacija.etf.rs/LR.html)
 
 ## Tech used
 - HTML
